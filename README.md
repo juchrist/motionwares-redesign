@@ -1,2 +1,3 @@
-This assessment live preview is available on [http://motionwares-redesign.herokuapp.com/p/Juchrist](http://motionwares-redesign.herokuapp.com/p/Juchrist).
+Signup Page Redesign - Preview on [http://motionwares-redesign.herokuapp.com](http://motionwares-redesign.herokuapp.com).
 
+Profile Page Redesign - Preview on [http://motionwares-redesign.herokuapp.com/p/Juchrist](http://motionwares-redesign.herokuapp.com/p/Juchrist).
